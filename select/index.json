@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Starting Now ～新しい私へ（Ultimate Princess Celebration 日本版テーマソング）",
+  "base_artist": "Miisha Shimizu",
+  "createdAt": "2026-03-03T12:08:11.675404Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Starting Now ～新しい私へ(Ultimate Princess Celebration 日本版テーマソング)",
+      "artist": "清水美依紗",
+      "has_synced": false,
+      "path": "select/pl_01_Starting_Now_~新しい私へ(Ultimate_Princess_Celebration_日本版テーマソング)_清水美依紗.txt"
+    }
+  ]
+}
